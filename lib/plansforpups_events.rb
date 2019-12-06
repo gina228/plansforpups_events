@@ -1,5 +1,6 @@
 require_relative "../lib/plansforpups_events/version"
 require_relative "../lib/plansforpups_events/cli"
+require_relative "../lib/plansforpups_events/scraper"
 
 require "pry"
 require "nokogiri"
